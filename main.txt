@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 sdfjdshdkjs
 sdklvdsl
 sdvdsvdsvsd
@@ -9,3 +10,8 @@ sdjhdbvd
 riieryterio
 ewiewfuewp
 sdhghlkdsh
+=======
+sjggjasgsa
+akkakka
+my data to added 
+>>>>>>> dev
