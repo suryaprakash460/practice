@@ -1,2 +1,9 @@
 sdvsvdsvvvc cvc
 java is nice programming language
+<<<<<<< HEAD
+=======
+i knpow java.  
+
+
+i have mobile phone.
+>>>>>>> aa40db4... test
